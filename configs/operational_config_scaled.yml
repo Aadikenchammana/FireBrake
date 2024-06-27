@@ -86,7 +86,7 @@ fire:
   diagonal_spread: true
 
 environment:
-  typ: static
+  typ: load
   moisture: 0.01
   location: LFMC/rawHide.npy
   pixls: 27
